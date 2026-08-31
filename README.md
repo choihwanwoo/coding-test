@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0078FF,100:3776AB&height=160&section=header&text=코딩테스트%20풀이%20노트&fontSize=48&fontColor=ffffff&fontAlignY=42"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:3776AB&height=180&section=header&text=코딩테스트%20풀이%20노트&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling"/>
 
 **Python · Java** 풀이 + 오답노트  
 Markdown으로 정리 · Velog 백업용
