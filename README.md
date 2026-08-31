@@ -1,18 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:3776AB&height=180&section=header&text=coding-test&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078FF,100:3776AB&height=200&section=header&text=코딩테스트%20풀이%20노트&fontSize=52&fontColor=ffffff&fontAlignY=38"/>
 
-**프로그래머스 코딩테스트 입문 · 기초 트레이닝 풀이 노트**
+<h3>Python · Java 풀이 + 오답노트</h3>
+<p>Markdown으로 정리 · Velog 백업용</p>
 
-풀이 + 오답노트를 md로 정리 (Velog 백업용)
-
-<br><br>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-&nbsp;&nbsp;
-![Programmers](https://img.shields.io/badge/Programmers-0078FF?style=for-the-badge)
 &nbsp;&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -32,17 +29,27 @@
 
 ### 🔗 링크
 
-<a href="https://velog.io/@choihwanwoo">
-  <img src="https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white" height="44" alt="Velog"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/choihwanwoo">
-  <img src="https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white" height="44" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://programmers.co.kr/">
-  <img src="https://img.shields.io/badge/Programmers-코딩테스트-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="Programmers"/>
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://velog.io/@choihwanwoo" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white" height="44" alt="Velog"/>
+      </a>
+    </td>
+    <td width="12"></td>
+    <td align="center">
+      <a href="https://github.com/choihwanwoo" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white" height="44" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="12"></td>
+    <td align="center">
+      <a href="https://programmers.co.kr/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/코딩테스트-문제_풀기-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="코딩테스트"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
