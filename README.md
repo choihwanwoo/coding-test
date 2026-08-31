@@ -7,10 +7,14 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-&nbsp;&nbsp;
+### Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" alt="Java"/>
+
+<br><br>
+
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br><br>
@@ -29,7 +33,7 @@
 
 ### 🔗 링크
 
-<table align="center">
+<table align="center" border="0" cellspacing="12" cellpadding="0">
   <tr>
     <td align="center">
       <a href="https://velog.io/@choihwanwoo" target="_blank" rel="noopener noreferrer">
@@ -163,16 +167,6 @@ coding-test/
 ---
 
 <div align="center">
-
-<br>
-
-### Tech Stack
-
-<img src="./assets/python.png" width="56" alt="Python" />
-&nbsp;&nbsp;
-<img src="./assets/java.png" width="56" alt="Java" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:3776AB&height=100&section=footer"/>
 
