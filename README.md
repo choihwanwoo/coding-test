@@ -1,59 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078FF,100:3776AB&height=200&section=header&text=코딩테스트%20풀이%20노트&fontSize=52&fontColor=ffffff&fontAlignY=38"/>
+# 코딩테스트 풀이 노트
 
-<h3>Python · Java 풀이 + 오답노트</h3>
-<p>Markdown으로 정리 · Velog 백업용</p>
+**Python · Java** 풀이 + 오답노트  
+Markdown으로 정리 · Velog 백업용
 
 <br>
 
 ### Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" alt="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" alt="Java"/>
-
-<br><br>
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java"/>
 
 <br><br>
 
 ### 📊 진행 현황
 
-<img src="https://img.shields.io/badge/풀이_완료-32문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="44" alt="풀이 32문제"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Lv.0-27개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="44" alt="Lv0 27개"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white" height="44" alt="Lv2 2개"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/기타-3개-6F42C1?style=for-the-badge&logo=bookstack&logoColor=white" height="44" alt="기타 3개"/>
+![풀이 완료-32문제](https://img.shields.io/badge/풀이_완료-32문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white)
+&nbsp;
+![Lv.0-27개](https://img.shields.io/badge/Lv.0-27개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white)
+&nbsp;
+![Lv.2-2개](https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white)
+&nbsp;
+![기타-3개](https://img.shields.io/badge/기타-3개-6F42C1?style=for-the-badge&logo=bookstack&logoColor=white)
 
 <br><br>
 
 ### 🔗 링크
 
-<table align="center" border="0" cellspacing="12" cellpadding="0">
-  <tr>
-    <td align="center">
-      <a href="https://velog.io/@choihwanwoo" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white" height="44" alt="Velog"/>
-      </a>
-    </td>
-    <td width="12"></td>
-    <td align="center">
-      <a href="https://github.com/choihwanwoo" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white" height="44" alt="GitHub"/>
-      </a>
-    </td>
-    <td width="12"></td>
-    <td align="center">
-      <a href="https://programmers.co.kr/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/코딩테스트-문제_풀기-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="44" alt="코딩테스트"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Velog-@choihwanwoo](https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choihwanwoo)
+&nbsp;
+[![GitHub-choihwanwoo](https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choihwanwoo)
+&nbsp;
+[![코딩테스트-문제_풀기](https://img.shields.io/badge/코딩테스트-문제_풀기-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://programmers.co.kr/)
 
 <br><br>
 
@@ -165,9 +145,3 @@ coding-test/
 </details>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:3776AB&height=100&section=footer"/>
-
-</div>
