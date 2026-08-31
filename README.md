@@ -15,14 +15,59 @@
 
 <br>
 
-![문제](https://img.shields.io/badge/풀이_완료-32문제-blue?style=for-the-badge)
-![Lv0](https://img.shields.io/badge/Lv.0-27-green?style=for-the-badge)
-![Lv2](https://img.shields.io/badge/Lv.2-2-orange?style=for-the-badge)
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <b>📗 풀이 완료</b><br><br>
+      <img src="https://img.shields.io/badge/문제-32개-0078FF?style=plastic&logo=checkmarx&logoColor=white" alt="32문제"/>
+    </td>
+    <td align="center" width="140">
+      <b>📘 Lv.0</b><br><br>
+      <img src="https://img.shields.io/badge/입문-27개-2EA44F?style=plastic&logo=leetcode&logoColor=white" alt="Lv0"/>
+    </td>
+    <td align="center" width="140">
+      <b>📙 Lv.2</b><br><br>
+      <img src="https://img.shields.io/badge/중급-2개-FB8500?style=plastic&logo=firebase&logoColor=white" alt="Lv2"/>
+    </td>
+    <td align="center" width="140">
+      <b>📕 기타</b><br><br>
+      <img src="https://img.shields.io/badge/PCCE-3개-6F42C1?style=plastic&logo=bookstack&logoColor=white" alt="기타"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-[![Velog](https://img.shields.io/badge/Velog-@choihwanwoo-20c997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choihwanwoo)
-[![GitHub](https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choihwanwoo)
+<img src="https://img.shields.io/github/last-commit/choihwanwoo/coding-test?logo=github&label=Last%20Commit&style=flat-square&color=0078FF" alt="last commit"/>
+<img src="https://img.shields.io/github/repo-size/choihwanwoo/coding-test?logo=github&label=Repo%20Size&style=flat-square&color=3776AB" alt="repo size"/>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://velog.io/@choihwanwoo">
+        <img src="https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=1B1C20" height="32" alt="Velog"/>
+      </a>
+    </td>
+    <td width="12"></td>
+    <td align="center">
+      <a href="https://github.com/choihwanwoo">
+        <img src="https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F" height="32" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="12"></td>
+    <td align="center">
+      <a href="https://programmers.co.kr/">
+        <img src="https://img.shields.io/badge/Programmers-코딩테스트-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=003566" height="32" alt="Programmers"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0078FF,3776AB&height=3&section=footer" width="80%" alt="divider"/>
 
 </div>
 
