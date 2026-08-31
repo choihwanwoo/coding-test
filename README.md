@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:3776AB&height=180&section=header&text=코딩테스트%20풀이%20노트&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=Noto%20Sans%20KR&animation=twinkling"/>
 
+<p align="center" style="font-size: 20px; line-height: 1.8; font-weight: 400; font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; color: #c9d1d9;">
 이곳은 Python과 Java로 코딩테스트를 풀고, 풀이와 오답노트를 Markdown으로 정리해 둔 기록장입니다.<br>
 Velog에도 함께 백업합니다.
+</p>
 
 <br>
 
