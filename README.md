@@ -17,23 +17,23 @@ Markdown으로 정리 · Velog 백업용
 
 ### 📊 진행 현황
 
-![풀이 완료-32문제](https://img.shields.io/badge/풀이_완료-32문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white)
+<img src="https://img.shields.io/badge/풀이_완료-32문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 32문제"/>
 &nbsp;
-![Lv.0-27개](https://img.shields.io/badge/Lv.0-27개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white)
+<img src="https://img.shields.io/badge/Lv.0-27개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 27개"/>
 &nbsp;
-![Lv.2-2개](https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white)
+<img src="https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white" height="48" alt="Lv2 2개"/>
 &nbsp;
-![기타-3개](https://img.shields.io/badge/기타-3개-6F42C1?style=for-the-badge&logo=bookstack&logoColor=white)
+<img src="https://img.shields.io/badge/기타-3개-6F42C1?style=for-the-badge&logo=bookstack&logoColor=white" height="48" alt="기타 3개"/>
 
 <br><br>
 
 ### 🔗 링크
 
-[![Velog-@choihwanwoo](https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choihwanwoo)
+<a href="https://velog.io/@choihwanwoo"><img src="https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white" height="48" alt="Velog"/></a>
 &nbsp;
-[![GitHub-choihwanwoo](https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choihwanwoo)
+<a href="https://github.com/choihwanwoo"><img src="https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white" height="48" alt="GitHub"/></a>
 &nbsp;
-[![코딩테스트-문제_풀기](https://img.shields.io/badge/코딩테스트-문제_풀기-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://programmers.co.kr/)
+<a href="https://programmers.co.kr/"><img src="https://img.shields.io/badge/코딩테스트-문제_풀기-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="코딩테스트"/></a>
 
 <br><br>
 
