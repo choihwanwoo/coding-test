@@ -19,9 +19,9 @@ Velog에도 함께 백업합니다.
 
 ### 📊 진행 현황
 
-<img src="https://img.shields.io/badge/풀이_완료-32문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 32문제"/>
+<img src="https://img.shields.io/badge/풀이_완료-36문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 36문제"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Lv.0-27개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 27개"/>
+<img src="https://img.shields.io/badge/Lv.0-31개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 31개"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white" height="48" alt="Lv2 2개"/>
 &nbsp;
@@ -58,7 +58,7 @@ Velog에도 함께 백업합니다.
 
 ```
 coding-test/
-├── 📁 lv0/       입문 (Lv.0) 27문제
+├── 📁 lv0/       입문 (Lv.0) 31문제
 ├── 📁 lv2/       Lv.2 2문제
 ├── 📁 etc/       PCCE · 기타 3문제
 ├── 📁 assets/    아이콘
@@ -71,7 +71,7 @@ coding-test/
 
 | 레벨 | 문제 수 | 바로가기 |
 |------|---------|----------|
-| Lv.0 · 코딩테스트 입문 | 27 | [펼치기](#lv0) |
+| Lv.0 · 코딩테스트 입문 | 31 | [펼치기](#lv0) |
 | Lv.2 | 2 | [펼치기](#lv2) |
 | 기타 · PCCE | 3 | [펼치기](#etc) |
 
@@ -80,7 +80,7 @@ coding-test/
 <a id="lv0"></a>
 
 <details open>
-<summary><b>📗 Lv.0 · 코딩테스트 입문 (27)</b></summary>
+<summary><b>📗 Lv.0 · 코딩테스트 입문 (31)</b></summary>
 <br>
 
 | # | 문제 | 언어 | 노트 |
@@ -112,6 +112,10 @@ coding-test/
 | 25 | 다항식 더하기 | `Python` | [📄](./lv0/다항식-더하기.md) |
 | 26 | 코드 처리하기 | `Python` | [📄](./lv0/코드-처리하기.md) |
 | 27 | 배열 조각하기 | `Python` | [📄](./lv0/배열-조각하기.md) |
+| 28 | 특이한 정렬 | `Python` | [📄](./lv0/특이한-정렬.md) |
+| 29 | 문자열 밀기 | `Python` | [📄](./lv0/문자열-밀기.md) |
+| 30 | 유한소수 판별하기 | `Python` | [📄](./lv0/유한소수-판별하기.md) |
+| 31 | 직사각형 넓이 구하기 | `Python` | [📄](./lv0/직사각형-넓이-구하기.md) |
 
 </details>
 
