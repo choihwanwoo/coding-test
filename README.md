@@ -19,9 +19,9 @@ Velog에도 함께 백업합니다.
 
 ### 📊 진행 현황
 
-<img src="https://img.shields.io/badge/풀이_완료-37문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 37문제"/>
+<img src="https://img.shields.io/badge/풀이_완료-44문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 44문제"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Lv.0-32개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 32개"/>
+<img src="https://img.shields.io/badge/Lv.0-39개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 39개"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white" height="48" alt="Lv2 2개"/>
 &nbsp;
@@ -58,7 +58,7 @@ Velog에도 함께 백업합니다.
 
 ```
 coding-test/
-├── 📁 lv0/       입문 (Lv.0) 32문제
+├── 📁 lv0/       입문 (Lv.0) 39문제
 ├── 📁 lv2/       Lv.2 2문제
 ├── 📁 etc/       PCCE · 기타 3문제
 ├── 📁 assets/    아이콘
@@ -71,7 +71,7 @@ coding-test/
 
 | 레벨 | 문제 수 | 바로가기 |
 |------|---------|----------|
-| Lv.0 · 코딩테스트 입문 | 32 | [펼치기](#lv0) |
+| Lv.0 · 코딩테스트 입문 | 39 | [펼치기](#lv0) |
 | Lv.2 | 2 | [펼치기](#lv2) |
 | 기타 · PCCE | 3 | [펼치기](#etc) |
 
@@ -80,7 +80,7 @@ coding-test/
 <a id="lv0"></a>
 
 <details open>
-<summary><b>📗 Lv.0 · 코딩테스트 입문 (32)</b></summary>
+<summary><b>📗 Lv.0 · 코딩테스트 입문 (39)</b></summary>
 <br>
 
 | # | 문제 | 언어 | 노트 |
@@ -117,6 +117,13 @@ coding-test/
 | 30 | 유한소수 판별하기 | `Python` | [📄](./lv0/유한소수-판별하기.md) |
 | 31 | 직사각형 넓이 구하기 | `Python` | [📄](./lv0/직사각형-넓이-구하기.md) |
 | 32 | 치킨 쿠폰 | `Python` | [📄](./lv0/치킨-쿠폰.md) |
+| 33 | 등수 매기기 | `Python` | [📄](./lv0/등수-매기기.md) |
+| 34 | 종이 자르기 | `Python` | [📄](./lv0/종이-자르기.md) |
+| 35 | 전국 대회 선발 고사 | `Python` | [📄](./lv0/전국-대회-선발-고사.md) |
+| 36 | 외계어 사전 | `Python` | [📄](./lv0/외계어-사전.md) |
+| 37 | 정사각형으로 만들기 | `Python` | [📄](./lv0/정사각형으로-만들기.md) |
+| 38 | 구슬을 나누는 경우의 수 | `Python` | [📄](./lv0/구슬을-나누는-경우의-수.md) |
+| 39 | 뒤집힌 문자열 | `Python` | [📄](./lv0/뒤집힌-문자열.md) |
 
 </details>
 
