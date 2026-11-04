@@ -19,11 +19,11 @@ Velog에도 함께 백업합니다.
 
 ### 📊 진행 현황
 
-<img src="https://img.shields.io/badge/풀이_완료-51문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 51문제"/>
+<img src="https://img.shields.io/badge/풀이_완료-61문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 61문제"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Lv.0-45개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 45개"/>
+<img src="https://img.shields.io/badge/Lv.0-49개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 49개"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Lv.1-1개-3776AB?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv1 1개"/>
+<img src="https://img.shields.io/badge/Lv.1-7개-3776AB?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv1 7개"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white" height="48" alt="Lv2 2개"/>
 &nbsp;
@@ -60,8 +60,8 @@ Velog에도 함께 백업합니다.
 
 ```
 coding-test/
-├── 📁 lv0/       입문 (Lv.0) 45문제
-├── 📁 lv1/       Lv.1 1문제
+├── 📁 lv0/       입문 (Lv.0) 49문제
+├── 📁 lv1/       Lv.1 7문제
 ├── 📁 lv2/       Lv.2 2문제
 ├── 📁 etc/       PCCE · 기타 3문제
 ├── 📁 assets/    아이콘
@@ -74,8 +74,8 @@ coding-test/
 
 | 레벨 | 문제 수 | 바로가기 |
 |------|---------|----------|
-| Lv.0 · 코딩테스트 입문 | 45 | [펼치기](#lv0) |
-| Lv.1 | 1 | [펼치기](#lv1) |
+| Lv.0 · 코딩테스트 입문 | 49 | [펼치기](#lv0) |
+| Lv.1 | 7 | [펼치기](#lv1) |
 | Lv.2 | 2 | [펼치기](#lv2) |
 | 기타 · PCCE | 3 | [펼치기](#etc) |
 
@@ -84,7 +84,7 @@ coding-test/
 <a id="lv0"></a>
 
 <details open>
-<summary><b>📗 Lv.0 · 코딩테스트 입문 (45)</b></summary>
+<summary><b>📗 Lv.0 · 코딩테스트 입문 (49)</b></summary>
 <br>
 
 | # | 문제 | 언어 | 노트 |
@@ -134,6 +134,10 @@ coding-test/
 | 43 | 아이스 아메리카노 | `Python` | [📄](./lv0/아이스-아메리카노.md) |
 | 44 | 카운트 업 | `Python` | [📄](./lv0/카운트-업.md) |
 | 45 | 캐릭터의 좌표 | `Python` | [📄](./lv0/캐릭터의-좌표.md) |
+| 46 | 공 던지기 | `Python` | [📄](./lv0/공-던지기.md) |
+| 47 | 삼각형의 완성조건 (2) | `Python` | [📄](./lv0/삼각형의-완성조건-2.md) |
+| 48 | 영어가 싫어요 | `Python` | [📄](./lv0/영어가-싫어요.md) |
+| 49 | 주사위 게임 3 | `Python` | [📄](./lv0/주사위-게임-3.md) |
 
 </details>
 
@@ -142,12 +146,18 @@ coding-test/
 <a id="lv1"></a>
 
 <details>
-<summary><b>📘 Lv.1 (1)</b></summary>
+<summary><b>📘 Lv.1 (7)</b></summary>
 <br>
 
 | # | 문제 | 언어 | 노트 |
 |:-:|------|:----:|:----:|
 | 01 | 중요한 단어를 스포 방지 | `Python` | [📄](./lv1/중요한-단어를-스포-방지.md) |
+| 02 | 가장 많이 받은 선물 | `Python` | [📄](./lv1/가장-많이-받은-선물.md) |
+| 03 | 노란불 신호등 | `Python` | [📄](./lv1/노란불-신호등.md) |
+| 04 | 달리기 경주 | `Python` | [📄](./lv1/달리기-경주.md) |
+| 05 | 유연근무제 | `Python` | [📄](./lv1/유연근무제.md) |
+| 06 | 추억 점수 | `Python` | [📄](./lv1/추억-점수.md) |
+| 07 | 택배 상자 꺼내기 | `Python` | [📄](./lv1/택배-상자-꺼내기.md) |
 
 </details>
 
