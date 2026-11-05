@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="32" viewBox="0 0 102 32">
+  <rect x=".5" y=".5" width="101" height="31" rx="7" fill="#1a344b" stroke="#4e7895"/>
+  <path d="M2 2h4v4H2z M9 2h4v4H9z M2 9h4v4H2z M9 9h4v4H9z" transform="translate(11 8)" fill="none" stroke="#9ce7f7" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="16" dominant-baseline="central" fill="#f0f6fc" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans CJK KR, sans-serif" font-size="13" font-weight="600">기타 · 3개</text>
+</svg>

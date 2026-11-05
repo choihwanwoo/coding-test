@@ -4,19 +4,20 @@
 
 프로그래머스 문제를 Java와 Python으로 풀며, 어떻게 접근했고 어디서 막혔는지 기록합니다.
 
-**61개 풀이 노트** · [Lv.0 49개](#lv0) · [Lv.1 7개](#lv1) · [Lv.2 2개](#lv2) · [기타 3개](#etc)
+**61개 풀이 노트**
 
-[프로그래머스 ↗](https://programmers.co.kr/) · [Velog ↗](https://velog.io/@choihwanwoo) · [GitHub ↗](https://github.com/choihwanwoo)
+<a href="#lv0"><img src="assets/nav/lv0.svg" width="108" height="32" alt="Lv.0 · 49개"></a>
+<a href="#lv1"><img src="assets/nav/lv1.svg" width="101" height="32" alt="Lv.1 · 7개"></a>
+<a href="#lv2"><img src="assets/nav/lv2.svg" width="101" height="32" alt="Lv.2 · 2개"></a>
+<a href="#etc"><img src="assets/nav/etc.svg" width="102" height="32" alt="기타 · 3개"></a>
+
+<a href="https://programmers.co.kr/"><img src="assets/nav/programmers.svg" width="126" height="32" alt="프로그래머스"></a>
+<a href="https://velog.io/@choihwanwoo"><img src="assets/nav/velog.svg" width="82" height="32" alt="Velog"></a>
+<a href="https://github.com/choihwanwoo"><img src="assets/nav/github.svg" width="88" height="32" alt="GitHub"></a>
 
 </div>
 
 ---
-
-## 먼저 읽어볼 풀이
-
-- **Lv.0 · Java** — [최빈값 구하기](lv0/최빈값-구하기.md) · 빈도를 세고 최빈값이 여러 개일 때를 처리합니다.
-- **Lv.1 · Python** — [추억 점수](lv1/추억-점수.md) · 이름을 점수에 연결하고, 목록에 없는 이름은 0점으로 처리합니다.
-- **Lv.2 · Java** — [점 찍기](lv2/점-찍기.md) · 원 안에 들어오는 점을 좌표별로 셉니다.
 
 ## 전체 풀이 목록
 

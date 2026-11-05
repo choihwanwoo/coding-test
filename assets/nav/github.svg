@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="32" viewBox="0 0 88 32">
+  <rect x=".5" y=".5" width="87" height="31" rx="7" fill="#111f32" stroke="#43586f"/>
+  <path d="M4 6v4m7-4c0 2-2 3-5 3H4 M6 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0 M13 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0 M6 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0" transform="translate(11 8)" fill="none" stroke="#b4cce3" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="16" dominant-baseline="central" fill="#f0f6fc" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans CJK KR, sans-serif" font-size="13" font-weight="600">GitHub</text>
+</svg>
