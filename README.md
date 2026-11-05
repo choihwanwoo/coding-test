@@ -1,195 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:3776AB&height=180&section=header&text=코딩테스트%20풀이%20노트&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=Noto%20Sans%20KR&animation=twinkling"/>
+<img src="assets/notes-banner.svg" width="100%" alt="코딩테스트 풀이 노트 · Java와 Python">
 
-<p align="center" style="font-size: 20px; line-height: 1.8; font-weight: 400; font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; color: #c9d1d9;">
-이곳은 Python과 Java로 코딩테스트를 풀고, 풀이와 오답노트를 Markdown으로 정리해 둔 기록장입니다.<br>
-Velog에도 함께 백업합니다.
-</p>
+프로그래머스 문제를 Java와 Python으로 풀며, 어떻게 접근했고 어디서 막혔는지 기록합니다.
 
-<br>
+**61개 풀이 노트** · [Lv.0 49개](#lv0) · [Lv.1 7개](#lv1) · [Lv.2 2개](#lv2) · [기타 3개](#etc)
 
-### Tech Stack
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java"/>
-
-<br><br>
-
-### 📊 진행 현황
-
-<img src="https://img.shields.io/badge/풀이_완료-61문제-0078FF?style=for-the-badge&logo=checkmarx&logoColor=white" height="48" alt="풀이 61문제"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Lv.0-49개-2EA44F?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv0 49개"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Lv.1-7개-3776AB?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="Lv1 7개"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Lv.2-2개-FB8500?style=for-the-badge&logo=firebase&logoColor=white" height="48" alt="Lv2 2개"/>
-&nbsp;
-<img src="https://img.shields.io/badge/기타-3개-6F42C1?style=for-the-badge&logo=bookstack&logoColor=white" height="48" alt="기타 3개"/>
-
-<br><br>
-
-### 🔗 링크
-
-<a href="https://velog.io/@choihwanwoo"><img src="https://img.shields.io/badge/Velog-@choihwanwoo-20C997?style=for-the-badge&logo=velog&logoColor=white" height="48" alt="Velog"/></a>
-&nbsp;
-<a href="https://github.com/choihwanwoo"><img src="https://img.shields.io/badge/GitHub-choihwanwoo-181717?style=for-the-badge&logo=github&logoColor=white" height="48" alt="GitHub"/></a>
-&nbsp;
-<a href="https://programmers.co.kr/"><img src="https://img.shields.io/badge/코딩테스트-문제_풀기-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="코딩테스트"/></a>
-
-<br><br>
+[프로그래머스 ↗](https://programmers.co.kr/) · [Velog ↗](https://velog.io/@choihwanwoo) · [GitHub ↗](https://github.com/choihwanwoo)
 
 </div>
 
 ---
 
-## About
+## 먼저 읽어볼 풀이
 
-| | |
-|---|---|
-| **목적** | 코딩테스트 입문 문제를 풀고, 헷갈린 점을 오답노트로 남기기 |
-| **플랫폼** | [프로그래머스](https://programmers.co.kr/) |
-| **언어** | Python · Java |
-| **노트 형식** | `## 풀이` → `## 오답노트` → `## 정답` |
+- **Lv.0 · Java** — [최빈값 구하기](lv0/최빈값-구하기.md) · 빈도를 세고 최빈값이 여러 개일 때를 처리합니다.
+- **Lv.1 · Python** — [추억 점수](lv1/추억-점수.md) · 이름을 점수에 연결하고, 목록에 없는 이름은 0점으로 처리합니다.
+- **Lv.2 · Java** — [점 찍기](lv2/점-찍기.md) · 원 안에 들어오는 점을 좌표별로 셉니다.
 
-<br>
+## 전체 풀이 목록
 
-### 폴더 구조
-
-```
-coding-test/
-├── 📁 lv0/       입문 (Lv.0) 49문제
-├── 📁 lv1/       Lv.1 7문제
-├── 📁 lv2/       Lv.2 2문제
-├── 📁 etc/       PCCE · 기타 3문제
-├── 📁 assets/    아이콘
-└── 📄 README.md
-```
-
----
-
-## 목차
-
-| 레벨 | 문제 수 | 바로가기 |
-|------|---------|----------|
-| Lv.0 · 코딩테스트 입문 | 49 | [펼치기](#lv0) |
-| Lv.1 | 7 | [펼치기](#lv1) |
-| Lv.2 | 2 | [펼치기](#lv2) |
-| 기타 · PCCE | 3 | [펼치기](#etc) |
-
----
+레벨을 펼친 뒤 문제 제목을 누르면 풀이 노트가 열립니다. 노트에는 접근 과정, 오답노트, 정답 코드를 정리했습니다.
 
 <a id="lv0"></a>
 
-<details open>
-<summary><b>📗 Lv.0 · 코딩테스트 입문 (49)</b></summary>
-<br>
+<details>
+<summary><b>Lv.0 · 코딩테스트 입문 · 49문제</b></summary>
 
-| # | 문제 | 언어 | 노트 |
-|:-:|------|:----:|:----:|
-| 01 | 두 수의 나눗셈 | `Java` | [📄](./lv0/두-수의-나눗셈.md) |
-| 02 | 두 수의 차 | `Java` | [📄](./lv0/두-수의-차.md) |
-| 03 | 문자 출력 | `Java` | [📄](./lv0/문자-출력.md) |
-| 04 | 각도 합치기 | `Java` | [📄](./lv0/각도-합치기.md) |
-| 05 | 분수의 덧셈 | `Java` | [📄](./lv0/분수의-덧셈.md) |
-| 06 | 배열 두배 만들기 | `Java` | [📄](./lv0/배열-두배-만들기.md) |
-| 07 | 중앙값 구하기 | `Java` | [📄](./lv0/중앙값-구하기.md) |
-| 08 | 최빈값 구하기 | `Java` | [📄](./lv0/최빈값-구하기.md) |
-| 09 | 짝수는 싫어요 | `Java` | [📄](./lv0/짝수는-싫어요.md) |
-| 10 | 피자 나눠 먹기 (1) | `Java` | [📄](./lv0/피자-나눠-먹기-1.md) |
-| 11 | 피자 나눠 먹기 (2) | `Java` | [📄](./lv0/피자-나눠-먹기-2.md) |
-| 12 | 배열의 평균값 | `Java` | [📄](./lv0/배열의-평균값.md) |
-| 13 | 옷가게 할인 받기 | `Java` | [📄](./lv0/옷가게-할인-받기.md) |
-| 14 | 문자 리스트를 문자열로 변환하기 | `Python` | [📄](./lv0/문자-리스트를-문자열로-변환하기.md) |
-| 15 | 대소문자 바꿔서 출력하기 | `Python` | [📄](./lv0/대소문자-바꿔서-출력하기.md) |
-| 16 | 홀짝 구분하기 | `Python` | [📄](./lv0/홀짝-구분하기.md) |
-| 17 | 연속된 수의 합 | `Python` | [📄](./lv0/연속된-수의-합.md) |
-| 18 | OX퀴즈 | `Python` | [📄](./lv0/OX퀴즈.md) |
-| 19 | 다음에 올 숫자 | `Python` | [📄](./lv0/다음에-올-숫자.md) |
-| 20 | 옹알이 (1) | `Java` | [📄](./lv0/옹알이-1.md) |
-| 21 | 정수를 나선형으로 배치하기 | `Python` | [📄](./lv0/정수를-나선형으로-배치하기.md) |
-| 22 | 겹치는 선분의 길이 | `Python` | [📄](./lv0/겹치는-선분의-길이.md) |
-| 23 | 평행 | `Python` | [📄](./lv0/평행.md) |
-| 24 | 안전지대 | `Python` | [📄](./lv0/안전지대.md) |
-| 25 | 다항식 더하기 | `Python` | [📄](./lv0/다항식-더하기.md) |
-| 26 | 코드 처리하기 | `Python` | [📄](./lv0/코드-처리하기.md) |
-| 27 | 배열 조각하기 | `Python` | [📄](./lv0/배열-조각하기.md) |
-| 28 | 특이한 정렬 | `Python` | [📄](./lv0/특이한-정렬.md) |
-| 29 | 문자열 밀기 | `Python` | [📄](./lv0/문자열-밀기.md) |
-| 30 | 유한소수 판별하기 | `Python` | [📄](./lv0/유한소수-판별하기.md) |
-| 31 | 직사각형 넓이 구하기 | `Python` | [📄](./lv0/직사각형-넓이-구하기.md) |
-| 32 | 치킨 쿠폰 | `Python` | [📄](./lv0/치킨-쿠폰.md) |
-| 33 | 등수 매기기 | `Python` | [📄](./lv0/등수-매기기.md) |
-| 34 | 종이 자르기 | `Python` | [📄](./lv0/종이-자르기.md) |
-| 35 | 전국 대회 선발 고사 | `Python` | [📄](./lv0/전국-대회-선발-고사.md) |
-| 36 | 외계어 사전 | `Python` | [📄](./lv0/외계어-사전.md) |
-| 37 | 정사각형으로 만들기 | `Python` | [📄](./lv0/정사각형으로-만들기.md) |
-| 38 | 구슬을 나누는 경우의 수 | `Python` | [📄](./lv0/구슬을-나누는-경우의-수.md) |
-| 39 | 뒤집힌 문자열 | `Python` | [📄](./lv0/뒤집힌-문자열.md) |
-| 40 | 그림 확대 | `Python` | [📄](./lv0/그림-확대.md) |
-| 41 | 로그인 성공? | `Python` | [📄](./lv0/로그인-성공.md) |
-| 42 | 마지막 두 원소 | `Python` | [📄](./lv0/마지막-두-원소.md) |
-| 43 | 아이스 아메리카노 | `Python` | [📄](./lv0/아이스-아메리카노.md) |
-| 44 | 카운트 업 | `Python` | [📄](./lv0/카운트-업.md) |
-| 45 | 캐릭터의 좌표 | `Python` | [📄](./lv0/캐릭터의-좌표.md) |
-| 46 | 공 던지기 | `Python` | [📄](./lv0/공-던지기.md) |
-| 47 | 삼각형의 완성조건 (2) | `Python` | [📄](./lv0/삼각형의-완성조건-2.md) |
-| 48 | 영어가 싫어요 | `Python` | [📄](./lv0/영어가-싫어요.md) |
-| 49 | 주사위 게임 3 | `Python` | [📄](./lv0/주사위-게임-3.md) |
+| # | 문제 | 언어 |
+| :-: | --- | :---: |
+| 01 | [두 수의 나눗셈](./lv0/두-수의-나눗셈.md) | `Java` |
+| 02 | [두 수의 차](./lv0/두-수의-차.md) | `Java` |
+| 03 | [문자 출력](./lv0/문자-출력.md) | `Java` |
+| 04 | [각도 합치기](./lv0/각도-합치기.md) | `Java` |
+| 05 | [분수의 덧셈](./lv0/분수의-덧셈.md) | `Java` |
+| 06 | [배열 두배 만들기](./lv0/배열-두배-만들기.md) | `Java` |
+| 07 | [중앙값 구하기](./lv0/중앙값-구하기.md) | `Java` |
+| 08 | [최빈값 구하기](./lv0/최빈값-구하기.md) | `Java` |
+| 09 | [짝수는 싫어요](./lv0/짝수는-싫어요.md) | `Java` |
+| 10 | [피자 나눠 먹기 (1)](./lv0/피자-나눠-먹기-1.md) | `Java` |
+| 11 | [피자 나눠 먹기 (2)](./lv0/피자-나눠-먹기-2.md) | `Java` |
+| 12 | [배열의 평균값](./lv0/배열의-평균값.md) | `Java` |
+| 13 | [옷가게 할인 받기](./lv0/옷가게-할인-받기.md) | `Java` |
+| 14 | [문자 리스트를 문자열로 변환하기](./lv0/문자-리스트를-문자열로-변환하기.md) | `Python` |
+| 15 | [대소문자 바꿔서 출력하기](./lv0/대소문자-바꿔서-출력하기.md) | `Python` |
+| 16 | [홀짝 구분하기](./lv0/홀짝-구분하기.md) | `Python` |
+| 17 | [연속된 수의 합](./lv0/연속된-수의-합.md) | `Python` |
+| 18 | [OX퀴즈](./lv0/OX퀴즈.md) | `Python` |
+| 19 | [다음에 올 숫자](./lv0/다음에-올-숫자.md) | `Python` |
+| 20 | [옹알이 (1)](./lv0/옹알이-1.md) | `Java` |
+| 21 | [정수를 나선형으로 배치하기](./lv0/정수를-나선형으로-배치하기.md) | `Python` |
+| 22 | [겹치는 선분의 길이](./lv0/겹치는-선분의-길이.md) | `Python` |
+| 23 | [평행](./lv0/평행.md) | `Python` |
+| 24 | [안전지대](./lv0/안전지대.md) | `Python` |
+| 25 | [다항식 더하기](./lv0/다항식-더하기.md) | `Python` |
+| 26 | [코드 처리하기](./lv0/코드-처리하기.md) | `Python` |
+| 27 | [배열 조각하기](./lv0/배열-조각하기.md) | `Python` |
+| 28 | [특이한 정렬](./lv0/특이한-정렬.md) | `Python` |
+| 29 | [문자열 밀기](./lv0/문자열-밀기.md) | `Python` |
+| 30 | [유한소수 판별하기](./lv0/유한소수-판별하기.md) | `Python` |
+| 31 | [직사각형 넓이 구하기](./lv0/직사각형-넓이-구하기.md) | `Python` |
+| 32 | [치킨 쿠폰](./lv0/치킨-쿠폰.md) | `Python` |
+| 33 | [등수 매기기](./lv0/등수-매기기.md) | `Python` |
+| 34 | [종이 자르기](./lv0/종이-자르기.md) | `Python` |
+| 35 | [전국 대회 선발 고사](./lv0/전국-대회-선발-고사.md) | `Python` |
+| 36 | [외계어 사전](./lv0/외계어-사전.md) | `Python` |
+| 37 | [정사각형으로 만들기](./lv0/정사각형으로-만들기.md) | `Python` |
+| 38 | [구슬을 나누는 경우의 수](./lv0/구슬을-나누는-경우의-수.md) | `Python` |
+| 39 | [뒤집힌 문자열](./lv0/뒤집힌-문자열.md) | `Python` |
+| 40 | [그림 확대](./lv0/그림-확대.md) | `Python` |
+| 41 | [로그인 성공?](./lv0/로그인-성공.md) | `Python` |
+| 42 | [마지막 두 원소](./lv0/마지막-두-원소.md) | `Python` |
+| 43 | [아이스 아메리카노](./lv0/아이스-아메리카노.md) | `Python` |
+| 44 | [카운트 업](./lv0/카운트-업.md) | `Python` |
+| 45 | [캐릭터의 좌표](./lv0/캐릭터의-좌표.md) | `Python` |
+| 46 | [공 던지기](./lv0/공-던지기.md) | `Python` |
+| 47 | [삼각형의 완성조건 (2)](./lv0/삼각형의-완성조건-2.md) | `Python` |
+| 48 | [영어가 싫어요](./lv0/영어가-싫어요.md) | `Python` |
+| 49 | [주사위 게임 3](./lv0/주사위-게임-3.md) | `Python` |
 
 </details>
-
----
 
 <a id="lv1"></a>
 
 <details>
-<summary><b>📘 Lv.1 (7)</b></summary>
-<br>
+<summary><b>Lv.1 · 7문제</b></summary>
 
-| # | 문제 | 언어 | 노트 |
-|:-:|------|:----:|:----:|
-| 01 | 중요한 단어를 스포 방지 | `Python` | [📄](./lv1/중요한-단어를-스포-방지.md) |
-| 02 | 가장 많이 받은 선물 | `Python` | [📄](./lv1/가장-많이-받은-선물.md) |
-| 03 | 노란불 신호등 | `Python` | [📄](./lv1/노란불-신호등.md) |
-| 04 | 달리기 경주 | `Python` | [📄](./lv1/달리기-경주.md) |
-| 05 | 유연근무제 | `Python` | [📄](./lv1/유연근무제.md) |
-| 06 | 추억 점수 | `Python` | [📄](./lv1/추억-점수.md) |
-| 07 | 택배 상자 꺼내기 | `Python` | [📄](./lv1/택배-상자-꺼내기.md) |
+| # | 문제 | 언어 |
+| :-: | --- | :---: |
+| 01 | [중요한 단어를 스포 방지](./lv1/중요한-단어를-스포-방지.md) | `Python` |
+| 02 | [가장 많이 받은 선물](./lv1/가장-많이-받은-선물.md) | `Python` |
+| 03 | [노란불 신호등](./lv1/노란불-신호등.md) | `Python` |
+| 04 | [달리기 경주](./lv1/달리기-경주.md) | `Python` |
+| 05 | [유연근무제](./lv1/유연근무제.md) | `Python` |
+| 06 | [추억 점수](./lv1/추억-점수.md) | `Python` |
+| 07 | [택배 상자 꺼내기](./lv1/택배-상자-꺼내기.md) | `Python` |
 
 </details>
-
----
 
 <a id="lv2"></a>
 
 <details>
-<summary><b>📙 Lv.2 (2)</b></summary>
-<br>
+<summary><b>Lv.2 · 2문제</b></summary>
 
-| # | 문제 | 언어 | 노트 |
-|:-:|------|:----:|:----:|
-| 01 | 최고의 집합 | `Java` | [📄](./lv2/최고의-집합.md) |
-| 02 | 점 찍기 | `Java` | [📄](./lv2/점-찍기.md) |
+| # | 문제 | 언어 |
+| :-: | --- | :---: |
+| 01 | [최고의 집합](./lv2/최고의-집합.md) | `Java` |
+| 02 | [점 찍기](./lv2/점-찍기.md) | `Java` |
 
 </details>
-
----
 
 <a id="etc"></a>
 
 <details>
-<summary><b>📘 기타 · PCCE / 연습 (3)</b></summary>
-<br>
+<summary><b>기타 · PCCE 및 연습 · 3문제</b></summary>
 
-| # | 문제 | 노트 |
-|:-:|------|:----:|
-| 01 | 수 나누기 (PCCE) | [📄](./etc/수-나누기.md) |
-| 02 | 병과 분류 | [📄](./etc/병과분류.md) |
-| 03 | 심폐소생술 | [📄](./etc/심폐소생술.md) |
+| # | 문제 |
+| :-: | --- |
+| 01 | [수 나누기 (PCCE)](./etc/수-나누기.md) |
+| 02 | [병과 분류](./etc/병과분류.md) |
+| 03 | [심폐소생술](./etc/심폐소생술.md) |
 
 </details>
 
 ---
+
+## 폴더 안내
+
+```text
+coding-test/
+├── lv0/      ·  입문 문제
+├── lv1/      ·  Lv.1 풀이
+├── lv2/      ·  Lv.2 풀이
+├── etc/      ·  PCCE와 기타 연습
+├── assets/   ·  README 이미지
+└── README.md
+```
